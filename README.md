@@ -1,4 +1,19 @@
-### Hi there 👋
+```clojure
+(def me { ;; Hi there!
+          ::pronouns ["he" "him"]
+          ::interests #{ ;; I don't understand physics, but I still think it's cool.
+                        "Programming" "Molecular Biology" "Physics" "Birdwatching"}
+          ::learning #{ ;; Japanese and computational biology are cool too. Templates are nightmare fuel.
+                       "Biopython" "C++" "日本語"})
+          ::enjoys #{ ;; I listen to synthwave and J-pop too, but mostly chiptune. 
+                     "アニメ" "Chiptune" "D&D" "Hobby electronics"} ;; Exploded Arduino Count: 1
+          ::languages { ;; Rewrite it in Rust!
+                       ::awesome #{"Rust" "Clojure" "Haskell" "Elixir"}
+                       ::awesome-sometimes #{"Python" "Scala" "Julia" "C"}
+                       ::questionable-at-best #{"Java" "GLSL" "Finnmark"}} ;; Only GLSL has a good excuse.
+          ::current-setup [ ;; i use arch btw
+                           "Artix" "LXQt" "BSPWM" "Neovim"                           "Artix" "LXQt" "BSPWM"]}]} ;; I use runit as my init system
+```
 
 <!--
 **LostBitset/LostBitset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
