@@ -3,8 +3,8 @@
           ::pronouns ["he" "him"]
           ::interests #{ ;; I don't understand physics, but I still think it's cool.
                         "Programming" "Molecular Biology" "Physics" "Birdwatching"}
-          ::learning #{ ;; Japanese and computational biology are cool too. Templates are nightmare fuel.
-                       "Biopython" "C++" "日本語"})
+          ::learning #{ ;; Japanese and dart are cool too. Templates are nightmare fuel.
+                       "C++" "Dart" "日本語"})
           ::enjoys #{ ;; I listen to synthwave and J-pop too, but mostly chiptune. 
                      "アニメ" "Chiptune" "D&D" "Hobby electronics"} ;; Exploded Arduino Count: 1
           ::languages { ;; Rewrite it in Rust!
