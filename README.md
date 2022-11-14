@@ -2,7 +2,7 @@
 (def me { ;; Hi there!
           ::pronouns ["he" "him"]
           ::interests #{ ;; I don't understand physics, but I still think it's cool.
-                        "Programming" "Molecular Biology" "Physics" "Birdwatching"}
+                        "Programming" "Molecular Biology" "Physics" "Conlangs" "Birdwatching"}
           ::learning #{ ;; Japanese and dart are cool too. Templates are nightmare fuel.
                        "C++" "Dart" "日本語"})
           ::enjoys #{ ;; I listen to synthwave and J-pop too, but mostly chiptune. 
