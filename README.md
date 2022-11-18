@@ -4,7 +4,7 @@
           ::interests #{ ;; I don't understand physics, but I still think it's cool.
                         "Programming" "Molecular Biology" "Physics" "Conlangs" "Birdwatching"}
           ::learning #{ ;; Japanese and dart are cool too. Templates are nightmare fuel.
-                       "C++" "Dart" "日本語"})
+                       "C++" "Zig" "日本語"})
           ::enjoys #{ ;; I listen to synthwave and J-pop too, but mostly chiptune. 
                      "アニメ" "Chiptune" "D&D" "Hobby electronics"} ;; Exploded Arduino Count: 1
           ::languages { ;; Rewrite it in Rust!
@@ -12,7 +12,7 @@
                        ::awesome-sometimes #{"Python" "Scala" "Julia" "C"}
                        ::questionable-at-best #{"Java" "GLSL" "Finnmark"}} ;; Only GLSL has a good excuse.
           ::current-setup [ ;; i use arch btw
-                           "Artix" "LXQt" "BSPWM" #{"Doom Emacs" "Neovim"}]}]} ;; I use runit as my init system
+                           "Artix" "LXQt" "BSPWM" "Kakoune"]}]} ;; I use runit as my init system
 ```
 
 <!--
