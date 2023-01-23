@@ -12,7 +12,7 @@
                        ::awesome-sometimes #{"Python" "Scala" "Julia" "C"}
                        ::questionable-at-best #{"Java" "GLSL" "Finnmark"}} ;; Only GLSL has a good excuse.
           ::current-setup [ ;; i use arch btw
-                           "Artix" "LXQt" "BSPWM" "Kakoune"]}]} ;; I use runit as my init system
+                           "Artix" "LXQt" "BSPWM" "Neovim"]}]} ;; I use runit as my init system
 ```
 
 <!-- Hey, you read the source! Here's a free cookie. 🍪 -->
