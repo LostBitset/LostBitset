@@ -3,14 +3,15 @@
           ::pronouns ["he" "him"]
           ::interests #{ ;; I don't understand physics, but I still think it's cool.
                         "Programming" "Molecular Biology" "Physics" "Conlangs" "Birdwatching"}
-          ::learning #{ ;; Japanese and Zig are cool too. Templates are nightmare fuel.
-                       "C++" "Zig" "日本語"})
+          ::learning #{ ;; i mi nelci la .zeg. je la .lojban. je lo ponbau
+                        ;; i ku'i mi tepsne la .tenplyt.
+                       "C++" "Zig" "日本語" "la .lojban."})
           ::enjoys #{ ;; I listen to synthwave and J-pop too, but mostly chiptune. 
                      "アニメと漫画" "Chiptune" "D&D" "Hobby electronics"} ;; Exploded Arduino Count: 1
           ::languages { ;; Rewrite it in Rust!
-                       ::awesome #{"Rust" "Clojure" "Haskell" "Elixir"}
-                       ::awesome-sometimes #{"Python" "Scala" "Julia" "C"}
-                       ::questionable-at-best #{"Java" "GLSL" "Finnmark"}} ;; Only GLSL has a good excuse.
+                       ::awesome #{"Rust" "Clojure" "Julia" "Go" "Haskell"}
+                       ::awesome-sometimes #{"Python" "Scala" "C" "Elixir"}
+                       ::questionable-at-best #{"Java" "JS" "GLSL" "Finnmark"}} ;; Only GLSL has a good excuse.
           ::current-setup [ ;; i use arch btw
                            "Artix" "LXQt" "BSPWM" "Neovim"]}]} ;; I use runit as my init system
 ```
