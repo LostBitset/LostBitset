@@ -6,7 +6,7 @@ just_for_fun = ["Birdwatching", "Conlangs", "アニメと漫画"]
 
 [me.languages]
 preferred = ["Python", "Scala", "Rust", "Haskell"]
-bad = ["Java", "JS", "Go", "Finnmark"]
+just_plain_bad = ["Java", "JS", "Go", "Finnmark"]
 depends = ["Julia", "C"]
 
 [me]
