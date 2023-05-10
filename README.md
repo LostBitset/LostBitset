@@ -12,6 +12,6 @@ depends = ["Julia", "C"]
 [me]
 pronouns = ["he", "him"]
 exploded_arduino_count = 1
-currently_learning = ["Nim", "日本語"]
+currently_learning = ["C++", "Nim", "日本語"]
 current_setup = { distro = "Artix", de = "LXQt" }
 ```
